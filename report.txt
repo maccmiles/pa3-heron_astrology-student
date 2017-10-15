@@ -1,0 +1,26 @@
+Score: 90
+
+pa3a: failed when two sides added up to the third side, and when one side had length 0
+
+== junit ==
+edu.wit.cs.comp1000.grading.PA3aGrading#testMath: +35
+edu.wit.cs.comp1000.grading.PA3aGrading#testLength: +0
+edu.wit.cs.comp1000.grading.PA3aGrading#testNeg: +5
+edu.wit.cs.comp1000.grading.PA3aGrading#testZero: +0
+edu.wit.cs.comp1000.grading.PA3bGrading#testAries: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testTaurus: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testGemini: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testCancer: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testLeo: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testVirgo: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testLibra: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testScorpio: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testSagittarius: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testCapricorn: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testAquarius: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testPisces: +3
+edu.wit.cs.comp1000.grading.PA3bGrading#testMonth: +7
+edu.wit.cs.comp1000.grading.PA3bGrading#testDay: +7
+
+== ontime ==
+ontime: +0
